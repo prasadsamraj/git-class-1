@@ -1,2 +1,4 @@
+<<<<<<< HEAD
 Added new feature -2
 added new line
+>>>>>>> 128f6470e2baae6d1e082982fd758a05ee4f8571
